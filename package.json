@@ -1,0 +1,11 @@
+{
+  "name": "mocking-api",
+  "version": "0.0.1",
+  "dependencies": {
+    "restify": "latest",
+    "mongoose": ">=4.3.4"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
